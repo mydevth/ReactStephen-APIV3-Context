@@ -1,16 +1,14 @@
 ### `Course : Modern React with Redux (Section06)`
 
-#### `Section06,07 : Handle Forms , Data persistence with API Requests`
+#### `Section07 : Data persistence with API Requests`
 
 #### Instructor : **_Stephen Grider_**
 
 #### Contents :
 
-- Form
+- แก้ไขจาก Section06 เปลี่ยน data มาเก็บที่ไฟล์ json (db.json)
 - State Update (https://state-updates.vercel.app/)
-- Insert object (slice)
-- Remove object (filter) }create new and update
-- Modify object (map)
+- useEffect (https://codepen.io/sgrider/pen/BarEowz)
 
 #### Tools :
 
@@ -21,5 +19,8 @@
 "server": "json-server -p 3001 --watch db.json",
 }
 npm run server`
+- VS Code Extension : rest client
+- Axios
+-
 
 #### Result: https://react-stephen-form.netlify.app/
