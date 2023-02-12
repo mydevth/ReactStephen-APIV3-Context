@@ -22,5 +22,4 @@ npm run server`
 - VS Code Extension : rest client
 - Axios
 
-
-#### Result: https://react-stephen-form.netlify.app/
+#### Result: https://react-stephen-formv2.netlify.app/
