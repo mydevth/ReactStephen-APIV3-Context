@@ -1,25 +1,17 @@
 ### `Course : Modern React with Redux (Section06)`
 
-#### `Section07 : Data persistence with API Requests`
+#### `Section08 : Context System`
 
 #### Instructor : **_Stephen Grider_**
 
 #### Contents :
 
-- แก้ไขจาก Section06 เปลี่ยน data มาเก็บที่ไฟล์ json (db.json)
-- State Update (https://state-updates.vercel.app/)
-- useEffect (https://codepen.io/sgrider/pen/BarEowz)
+- Context System
+- Hooks (useState, useContext, useState)
+- Custom Hooks
 
 #### Tools :
 
-- picsum : (https://picsum.photos/)
-  {`https://picsum.photos/seed/${book.id}/300/200`}
-- npm install json-server
-  `package.json : "scripts": {
-"server": "json-server -p 3001 --watch db.json",
-}
-npm run server`
-- VS Code Extension : rest client
-- Axios
+-
 
-#### Result: https://react-stephen-formv2.netlify.app/
+#### Result: https://react-stephen-context.netlify.app/
